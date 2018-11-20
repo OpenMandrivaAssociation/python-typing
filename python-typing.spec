@@ -9,7 +9,9 @@ URL:            https://pypi.python.org/pypi/typing
 Source0:        https://pypi.io/packages/source/t/typing/typing-%{version}.tar.gz
 BuildArch:      noarch
 BuildRequires:  pkgconfig(python2)
+BuildRequires:  pkgconfig(python)
 BuildRequires:  python2dist(setuptools)
+BuildRequires:  python3egg(setuptools)
 
 %description
 Typing defines a standard notation for Python function and variable type

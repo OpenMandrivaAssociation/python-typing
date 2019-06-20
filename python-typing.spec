@@ -1,6 +1,6 @@
 %define module	typing
 Name:           python-%{module}
-Version:        3.6.6
+Version:        3.7.4
 Release:        %mkrel 1
 Summary:        Typing defines a standard notation for type annotations
 Group:          Development/Python

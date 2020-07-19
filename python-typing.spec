@@ -1,12 +1,12 @@
 %define module	typing
 Name:           python-%{module}
-Version:	3.7.4.1
-Release:	2
+Version:	3.7.4.3
+Release:	1
 Summary:        Typing defines a standard notation for type annotations
 Group:          Development/Python
 License:        Python
 URL:            https://pypi.python.org/pypi/typing
-Source0:	https://files.pythonhosted.org/packages/67/b0/b2ea2bd67bfb80ea5d12a5baa1d12bda002cab3b6c9b48f7708cd40c34bf/typing-3.7.4.1.tar.gz
+Source0:	https://files.pythonhosted.org/packages/05/d9/6eebe19d46bd05360c9a9aae822e67a80f9242aabbfc58b641b957546607/typing-3.7.4.3.tar.gz
 BuildArch:      noarch
 BuildRequires:  pkgconfig(python2)
 BuildRequires:  pkgconfig(python)

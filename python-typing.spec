@@ -1,7 +1,7 @@
 %define module	typing
 Name:           python-%{module}
 Version:	3.10.0.0
-Release:	1
+Release:	2
 Summary:        Typing defines a standard notation for type annotations
 Group:          Development/Python
 License:        Python
